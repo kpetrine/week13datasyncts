@@ -1,0 +1,224 @@
+{
+  "campgrounds": [
+    {
+      "id": 1,
+      "campground": "Grand Canyon National Park Campground",
+      "location": "Grand Canyon",
+      "campsites": [
+        {
+          "site_id": 101,
+          "name": "Bright Angel Campground",
+          "capacity": 30
+        },
+        {
+          "site_id": 102,
+          "name": "Mather Campground",
+          "capacity": 80
+        },
+        {
+          "site_id": 103,
+          "name": "Desert View Campground",
+          "capacity": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "campground": "Horseshoe Bend Campground",
+      "location": "Glen Canyon National Recreation Area",
+      "campsites": [
+        {
+          "site_id": 201,
+          "name": "Horseshoe Bend Campsite A",
+          "capacity": 10
+        },
+        {
+          "site_id": 202,
+          "name": "Horseshoe Bend Campsite B",
+          "capacity": 10
+        },
+        {
+          "site_id": 203,
+          "name": "Horseshoe Bend Campsite C",
+          "capacity": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "campground": "Sedona Red Rock Country Campground",
+      "location": "Sedona Red Rock Country",
+      "campsites": [
+        {
+          "site_id": 301,
+          "name": "Coconino National Forest Site 1",
+          "capacity": 6
+        },
+        {
+          "site_id": 302,
+          "name": "Coconino National Forest Site 2",
+          "capacity": 6
+        },
+        {
+          "site_id": 303,
+          "name": "Coconino National Forest Site 3",
+          "capacity": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "campground": "Catalina State Park Campground",
+      "location": "Catalina Mountains near Tucson",
+      "campsites": [
+        {
+          "site_id": 401,
+          "name": "Campsite 1",
+          "capacity": 8
+        },
+        {
+          "site_id": 402,
+          "name": "Campsite 2",
+          "capacity": 8
+        },
+        {
+          "site_id": 403,
+          "name": "Campsite 3",
+          "capacity": 8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "campground": "Kartchner Caverns State Park Campground",
+      "location": "Kartchner Caverns",
+      "campsites": [
+        {
+          "site_id": 501,
+          "name": "Campsite A",
+          "capacity": 4
+        },
+        {
+          "site_id": 502,
+          "name": "Campsite B",
+          "capacity": 4
+        },
+        {
+          "site_id": 503,
+          "name": "Campsite C",
+          "capacity": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "campground": "Dead Horse Ranch State Park Campground",
+      "location": "Cottonwood",
+      "campsites": [
+        {
+          "site_id": 601,
+          "name": "Ranch Campsite 1",
+          "capacity": 10
+        },
+        {
+          "site_id": 602,
+          "name": "Ranch Campsite 2",
+          "capacity": 10
+        },
+        {
+          "site_id": 603,
+          "name": "Ranch Campsite 3",
+          "capacity": 10
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "campground": "Canyon de Chelly National Monument Campground",
+      "location": "Canyon de Chelly National Monument",
+      "campsites": [
+        {
+          "site_id": 701,
+          "name": "Campsite 1",
+          "capacity": 5
+        },
+        {
+          "site_id": 702,
+          "name": "Campsite 2",
+          "capacity": 5
+        },
+        {
+          "site_id": 703,
+          "name": "Campsite 3",
+          "capacity": 5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "campground": "Organ Pipe Cactus National Monument Campground",
+      "location": "Organ Pipe Cactus National Monument",
+      "campsites": [
+        {
+          "site_id": 801,
+          "name": "Campsite A",
+          "capacity": 6
+        },
+        {
+          "site_id": 802,
+          "name": "Campsite B",
+          "capacity": 6
+        },
+        {
+          "site_id": 803,
+          "name": "Campsite C",
+          "capacity": 6
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "campground": "Aravaipa Canyon Wilderness Campground",
+      "location": "Aravaipa Canyon",
+      "campsites": [
+        {
+          "site_id": 901,
+          "name": "Campsite 1",
+          "capacity": 4
+        },
+        {
+          "site_id": 902,
+          "name": "Campsite 2",
+          "capacity": 4
+        },
+        {
+          "site_id": 903,
+          "name": "Campsite 3",
+          "capacity": 4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "campground": "Petrified Forest National Park Campground",
+      "location": "Petrified Forest National Park",
+      "campsites": [
+        {
+          "site_id": 1001,
+          "name": "Campsite A",
+          "capacity": 8
+        },
+        {
+          "site_id": 1002,
+          "name": "Campsite B",
+          "capacity": 8
+        },
+        {
+          "site_id": 1003,
+          "name": "Campsite C",
+          "capacity": 8
+        }
+      ]
+    }
+  ]
+}
